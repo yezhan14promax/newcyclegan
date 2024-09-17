@@ -1,0 +1,8 @@
+Best trial:
+  FID score: 140.43378428915236
+  Params:
+    lambda_A: 9.219279736717002
+    lambda_B: 13.604344908383311
+    lambda_identity: 0.8902993223852074
+    learning_rate: 0.0004624229863062215
+    lambda_temporal: 1.6390053350598688
